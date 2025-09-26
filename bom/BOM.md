@@ -32,17 +32,20 @@ The Display FPC Jumper Cable specs:
 20 Conductor, 1mm pitch, Opposite Side Contacts - either 31mm or 51mm will work. The 31mm is not available at Mouser.  
 
  	 	 	
-## Mounting Hardware/Stanoffs
+## Mounting Hardware/Standoffs/Screws
 
 (still a work in progess)  
 
-* 3-4x 11mm F/F for pi  
-* 3x 8mm M/F - top side  
-
+* 3-4x 11mm F/F for pi  - w/ 10mm long screws from bottom
+* 3x 8mm M/F - top side  - w/ 6mm long screws from top
+* 1x 16mm screw for the top-side bottom left corner
+  
 Optional (if not using 3d printed case)  
-* 2x 16mm F/F - bottom side  
+* 2x 16mm F/F - bottom left side  
 
-M2.5 thread screws/standoffs are used in kits.  
+M2.5 thread screws/standoffs are used in kits (screws are phillips/cross with a pan head).  
+
+## Knobs: 
 
 Knobs are up to you.  
 I like these [Re-an-p670-frac-style](https://modularaddict.com/re-an-p670-frac-style-16mm-soft-touch-knob-d-shaft)  
