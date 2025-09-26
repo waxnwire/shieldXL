@@ -29,7 +29,7 @@ If you purchase a kit from denki-oto some of these items may be included.
 
 
 The Display FPC Jumper Cable specs:   
-20 Conductor, 1mm pitch, Opposite Side Contacts - either 31mm or 51mm will work. The 31mm is not available at Mouser.  
+20 Conductor, 1mm pitch, Opposite Side Contacts - either 31mm or 51mm will work. The 31mm is not available at Mouser.  The longer 51mm one is easier to install.  
 
  	 	 	
 ## Mounting Hardware/Standoffs/Screws
