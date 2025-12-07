@@ -779,7 +779,7 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/c9239587-f025-4c30-a062-e3943913bb1d")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start -6 6.5)
 			(end 6 6.5)
@@ -2187,7 +2187,7 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/5c14addc-136f-4bdc-8fc9-3d3effc00c70")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start -6 -6.5)
 			(end -6 6.5)
@@ -2567,7 +2567,7 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/ead38abc-ba43-43ce-805a-602f59610296")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start -6 6.5)
 			(end 6 6.5)
@@ -2960,7 +2960,6 @@
 		(path "/d872c92c-5229-43e6-807a-8bd0f3dfa8f7/acdad7d8-bf75-4363-91ec-eb405d34aa57")
 		(sheetname "norns-shield-210330_1")
 		(sheetfile "norns-shield-210330_1.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 57.9 -55.04)
 			(end 7.1 -55.04)
@@ -9386,7 +9385,6 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/f74aa2eb-c69c-4c9f-a16a-f3a24e1126e1")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 9.2 3)
 			(end 3.17 3)
@@ -9734,7 +9732,6 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/1abf04a0-7278-4ced-914f-df737468fec0")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.2 -3.6)
 			(end -1.2 -3.6)
@@ -10901,7 +10898,6 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/bb8cc51e-afe7-491c-ba38-b8e9c8e149e5")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 9.2 3)
 			(end 3.17 3)
@@ -12843,7 +12839,7 @@
 		(path "/53fda09e-7af9-4285-ac8e-05ed312a27ba/89358abc-2f48-4607-a4de-4486bf7c32e1")
 		(sheetname "norns-shield-210330_2")
 		(sheetfile "norns-shield-210330_2.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom)
+		(attr smd)
 		(fp_line
 			(start 4.28 -12.67)
 			(end 4.28 13.63)
