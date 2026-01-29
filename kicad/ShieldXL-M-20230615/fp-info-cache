@@ -1,4 +1,4 @@
-46749388721088956
+46756465877420156
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1259,6 +1259,13 @@ switch normally-open pushbutton push-button
 0
 4
 4
+Button_Switch_SMD
+SW_PUSH_5.1mm JLCPCB
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
 Button_Switch_SMD
 SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010
 Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)
@@ -12278,6 +12285,13 @@ te fpc 84953
 18
 17
 Connector_FFC-FPC
+TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal_InvertedPadNumbers
+TE FPC connector, 16 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
+te fpc 84953
+0
+18
+17
+Connector_FFC-FPC
 TE_1-84953-7_1x17-1MP_P1.0mm_Horizontal
 TE FPC connector, 17 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4
 te fpc 84953
@@ -12468,6 +12482,13 @@ te fpc 84952
 24
 Connector_FFC-FPC
 TE_2-84952-4_1x24-1MP_P1.0mm_Horizontal
+TE FPC connector, 24 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+26
+25
+Connector_FFC-FPC
+TE_2-84952-4_1x24-1MP_P1.0mm_Horizontal_invertedPadNumbers
 TE FPC connector, 24 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
 te fpc 84952
 0
@@ -166494,6 +166515,13 @@ SOP SO
 0
 20
 9
+Package_SO
+SOP-8-2.54mm (6N137)
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
 Package_SO
 SOP-8_3.76x4.96mm_P1.27mm
 SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
